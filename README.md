@@ -8,7 +8,7 @@ Anyone who wishes to do the following will find this code useful:
 3. Connect their Rasa chat bot to Facebook messenger
 
 ## Bot in action
-![bot in action](age_estimator_bot_in_action.jpg | width=100)
+<img src="https://raw.githubusercontent.com/abhishekiitm/age-estimator-bot/master/age_estimator_bot_in_action.jpg" width="100" />
 
 ## Facial Age Estimation 
 Check out [Shichao Li's Github repository](https://github.com/Nicholasli1995/VisualizingNDF) for the source of the deep learning model that predicts the age given an image. All copyrights belong to them. Thankfully, they have open sourced their code under the MIT License.
